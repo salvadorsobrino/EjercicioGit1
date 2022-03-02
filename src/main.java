@@ -32,7 +32,7 @@ public class main {
 		
 
 		System.out.println("Linea que genera conflicto");
-
+		System.out.println("Conflicto en remoto");
 		System.out.println("Fin del programa");
 
 	}
