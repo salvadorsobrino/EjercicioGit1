@@ -30,7 +30,7 @@ public class main {
 		int num = sc.nextInt();
 		System.out.println("La resta acumulada es: " + Resta.restaAcumulada(num));
 		
-		
+		System.out.println("Linea que genera conflicto")
 	}
 
 }
