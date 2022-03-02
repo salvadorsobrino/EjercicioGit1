@@ -32,7 +32,11 @@ public class main {
 		
 
 		System.out.println("Linea que genera conflicto");
+<<<<<<< HEAD
 		System.out.println("Conflicto en remoto");
+=======
+		System.out.println("Añadimos esta linea desde el REMOTO");
+>>>>>>> 7a56a069cf269c6e6ce9eb7602e2b67a95857619
 		System.out.println("Fin del programa");
 
 	}
