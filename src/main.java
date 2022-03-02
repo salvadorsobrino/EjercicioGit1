@@ -6,6 +6,9 @@ import java.util.Scanner;
  */
 public class main {
 
+	/** Con Shift-Alt-J se añade javadoc
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
@@ -28,7 +31,6 @@ public class main {
 		System.out.println("La resta acumulada es: " + Resta.restaAcumulada(num));
 		
 		
-		//pruebas de la clase resta hacer commit y add
 	}
 
 }
